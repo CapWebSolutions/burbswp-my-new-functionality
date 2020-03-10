@@ -7,7 +7,7 @@ wp-content/*
 !wp-content/plugins/
 
 # don't ignore these plugins
-!wp-content/plugins/add-new-functionality/
+!wp-content/plugins/add-newfunctionality/
 
 # ignore node dependency directories
 node_modules/
